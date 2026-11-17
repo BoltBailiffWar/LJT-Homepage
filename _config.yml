@@ -157,6 +157,7 @@ exclude:
   - Capfile
   - config
   - Dockerfile
+  - docker-compose.yaml
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
@@ -167,6 +168,14 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - README.md
+  - AGENTS.md
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - talkmap_out.ipynb
+  - scripts
   - tmp
   - vendor
 keep_files:
